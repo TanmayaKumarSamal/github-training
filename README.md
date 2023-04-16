@@ -1,3 +1,3 @@
 # Demo
 
-This is just training on GitHub.
+This is just training on GitHub!
